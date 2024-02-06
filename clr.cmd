@@ -1,3 +1,4 @@
+
 @echo off    
 del /s /f /q %windir%\temp\*.*    
 rd /s /q %windir%\temp    
@@ -28,4 +29,4 @@ rd /s /q "%USERPROFILE%\Recent"
 md "%USERPROFILE%\Recent"    
 del /s /f /q "%USERPROFILE%\Cookies"\*.*    
 rd /s /q "%USERPROFILE%\Cookies"    
-md "%USERPROFILE%\Cookies"
+  

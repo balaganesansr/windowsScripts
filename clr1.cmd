@@ -1,3 +1,4 @@
+
 REM --add the following to the top of your bat file--
 
 
@@ -42,4 +43,5 @@ echo Temp is cleared
 echo Appdata/Temp is cleared
 echo prefetch is cleared
 echo -------------------------------------
+
 set /p DUMMY=Press Enter key to close...
